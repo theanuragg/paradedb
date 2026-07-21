@@ -1,5 +1,4 @@
 # IDEs
-.vscode/
 .idea/
 *.iml
 *.swp
@@ -31,7 +30,6 @@ target/
 pgvector/
 
 # Env files
-.env
 
 # Samply
 profile.json*
@@ -56,3 +54,4 @@ CLAUDE.local.md
 
 .github/scripts/verify
 __pycache__
+config.bat
